@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whitelist.iml" filepath="$PROJECT_DIR$/Whitelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.afeibaili.Whitelist.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.afeibaili.Whitelist.iml" />
+    </modules>
+  </component>
+</project>
